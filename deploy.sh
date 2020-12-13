@@ -1,1 +1,2 @@
-this file cotains deplyoment script
+this file cotains deplyoment scrip
+hello im updating t
